@@ -1,2 +1,2 @@
-# Python_ML_course
+# Python-ML-course
 Machine Learning course
